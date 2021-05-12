@@ -7,7 +7,7 @@ Visit **[docs.zerion.io](https://docs.zerion.io)** for full documentation.
 ## Installation
 
 ```
-npm install defi-sdk
+npm install defi-sdk@0.0.1
 ```
 
 ## Usage
